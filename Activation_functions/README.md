@@ -1,1 +1,2 @@
 The purpose of this project was to gain an understanding for implementing activation functions, which are critical to neural networks, on hardware using fixed point math and pre-calculated values.
+The pythod code was used to find the coefficients for sigmoid and tanh approximations. The results of the fixed point approixmations were then compared with the ideal values of these functions in the testbench.
