@@ -1,0 +1,1 @@
+This project is designed to gain an understanding of matrix multiplication which is essential to machine learning. Different versions of the same function were made in Vitis HLS with different directives such as pipelining or loop unrolling to explore optimization methods.
